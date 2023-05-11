@@ -1,0 +1,76 @@
+Name
+Instance ID
+Instance state
+Instance type
+Status check
+Alarm status
+Availability Zone
+Public IPv4 DNS
+Public IPv4 address
+Elastic IP
+IPv6 IPs
+Monitoring
+Security group name
+Key name
+Launch time
+linux-lab
+i-0c138b5de4334e6cc
+Stopped
+t2.micro	–	
+No alarms
+ap-southeast-2a	–	–	–	–	disabled	launch-wizard-1	linux-key	2023/04/14 09:38 GMT+10
+PracticeInstance1
+i-03c1357392ccccdda
+Running
+t2.micro	Initializing	
+No alarms
+ap-southeast-2c	ec2-3-26-43-104.ap-southeast-2.compute.amazonaws.com	3.26.43.104	–	–	disabled	launch-wizard-3	PracticeI	2023/05/11 17:38 GMT+10
+Launch instances
+Launch instance from template
+Migrate a server
+Connect
+Stop instance
+Start instance
+Reboot instance
+Hibernate instance
+Terminate instance
+Instance settings
+Attach to Auto Scaling Group
+Change termination protection
+Change stop protection
+Change shutdown behavior
+Change auto-recovery behavior
+Change instance type
+Change Nitro Enclaves
+Change credit specification
+Change resource based naming options
+Modify instance placement
+Modify Capacity Reservation settings
+Edit user data
+Allow tags in instance metadata
+Manage tags
+Modify instance metadata options
+Networking
+Attach network interface
+Detach network interface
+Connect RDS database
+Change source/destination check
+Disassociate Elastic IP address
+Manage IP addresses
+Manage ENA Express
+Security
+Change security groups
+Get Windows password
+Modify IAM role
+Image and templates
+Create image
+Create template from instance
+Launch more like this
+Monitor and troubleshoot
+Get system log
+Get instance screenshot
+Manage detailed monitoring
+Manage CloudWatch alarms
+EC2 serial console
+Replace root volume
+Ins
